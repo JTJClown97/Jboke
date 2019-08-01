@@ -1,0 +1,172 @@
+.sp-dakuang {
+    width: 6.820307rem;
+    height: 9.234368rem;
+    padding: 0px .34rem .1rem .34rem;
+   
+    /* background-color: pink; */
+}
+
+.ico3 {
+    background-position: 0 -5rem;
+}
+
+
+.sp-zhkuang {
+    width: 100%;
+    height: 7.804681rem;
+    /* background-color: pink; */
+}
+
+.sp-zhkuang>ul {
+    display: flex;
+    height: .45rem;
+    list-style: none;
+    justify-content: space-between;
+}
+
+.sp-zhkuang>ul>li {
+    width: 1.101562rem;
+    height: 100%;
+    /* background-color: red; */
+}
+
+.sp-zhkuang>ul>li>a {
+    color: #343440;
+
+}
+
+#sp-a1 {
+    color: #DB9E3F;
+}
+
+#sp-a1~span {
+    display: block;
+    width: .99rem;
+    height: .070312rem;
+    background-color: #DB9E3F;
+
+}
+
+.sp-sp {
+    width: 100%;
+    height: 7.804681rem;
+    margin-top: .3rem;
+    /* background-color: pink; */
+}
+
+.sp-sp>ul {
+    height: 7.171869rem;
+    list-style: none;
+    display: flex;
+    /* background-color: red; */
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.sp-sp>ul>li {
+    width: 3.359763rem;
+    height: 3.33956rem;
+    margin: 0px 0px .2rem 0px;
+    /* background-color: yellow; */
+}
+
+.sp-sp img {
+    width: 3.36rem;
+    height: 1.9rem;
+    border-radius: .09375rem;
+}
+
+.sp-sp span {
+    display: block;
+    width: 3.325779rem;
+    height: .76rem;
+    font-size: .26rem;
+    margin-top: .18rem;
+    color: #222;
+    line-clamp: 2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: pre-wrap;
+
+  
+}
+
+.more-add {
+    text-align: center;
+    width: 100%;
+    height: 29.86;
+    color: #9ea2a7;
+     border-bottom: 1px solid #d4d9de;
+}
+
+
+.tuwen-da {
+    height: 9.374993rem;
+    padding: 0px .34rem;
+    /* background-color: pink; */
+}
+
+
+.tw-ul {
+    margin-top: .234375rem;
+    height: 9.374993rem;
+    list-style: none;
+    /* background-color: yellow; */
+
+}
+
+.tw-ul>li {
+    height: 1.499999rem;
+    padding-bottom: .1rem;
+    margin-bottom: .2rem;
+    display: flex;
+    
+}
+
+.tw-ul a {
+    display: inline-block;
+    width: 2.32rem;
+    height: 1.4rem;
+    margin-right: .2rem;
+}
+
+.tw-ul img {
+    width: 100%;
+    height: 100%;
+}
+
+.tw-ul div {
+    display: inline-block;
+    width: 3.8rem;
+    height: 1.5rem;
+}
+
+.tspan1 {
+    display: block;
+    width: 100%;
+    height: .45rem;
+    font-size: .3rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.tspan2 {
+    display: block;
+    height: .738281rem;
+    color: #7a7a80;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    /* white-space: nowrap; */
+
+}
+
+.tspan3 {
+    display: block;
+    width: 100%;
+    height: .2625rem;
+    font-size: .2rem;
+    color: #7a7a80;
+}
+
+
